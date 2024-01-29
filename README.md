@@ -21,23 +21,6 @@
 - ⚡ Fun fact **I Think i'm Funny.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fakhir-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="fakhir-iqbal" /> </p>
-
-- 🔭 I’m currently working as **intern.**
-
-- 🌱 I’m currently learning **reactJS, jQuery, AngularJS .**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Fakhir-Iqbal](https://github.com/Fakhir-Iqbal)
-
-- 💬 Ask me about **HTML,CSS, SCSS, Bootstrap, talwind, JavaScript, Firebase ,react.**
-
-- 📫 How to reach me **fakhiriqbal52@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Fakhir-Iqbal/Fakhir-Iqbal/blob/main/My%20Resume.pdf](https://github.com/Fakhir-Iqbal/Fakhir-Iqbal/blob/main/My%20Resume.pdf)
-
-- ⚡ Fun fact **I Think i'm Funny.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fakhir iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakhir iqbal" height="30" width="40" /></a>
 <a href="https://fb.com/itz_fakhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz_fakhir" height="30" width="40" /></a>
