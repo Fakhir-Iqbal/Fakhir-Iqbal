@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Fakhir-Iqbal/Fakhir-Iqbal/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner%20(1).png)
+![MasterHead](https://github.com/Fakhir-Iqbal/Fakhir-Iqbal/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Fakhir Iqbal</h1>
 <h3 align="center">A Passionate Frontend Developer From Pakistan.</h3>
