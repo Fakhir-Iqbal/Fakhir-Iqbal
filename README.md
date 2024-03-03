@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fakhir iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakhir iqbal" height="30" width="40" /></a>
 <a href="https://fb.com/itz_fakhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz_fakhir" height="30" width="40" /></a>
-<a href="https://instagram.com/itz-fakhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz-fakhir" height="30" width="40" /></a>
+<a href="[https://instagram.com/itz-fakhir](https://www.instagram.com/itz_fakhir338?igsh=MzQ4cDltejJtcjRv)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz-fakhir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
