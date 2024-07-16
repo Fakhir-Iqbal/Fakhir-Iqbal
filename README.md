@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Fakhir-Iqbal/Fakhir-Iqbal/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner%20(1).png)
+![MasterHead](https://github.com/Fakhir-Iqbal/Fakhir-Iqbal/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fakhir-iqbal&label=Profile%20views&color=0e75b6&style=flat" alt="fakhir-iqbal" /> </p>
 
 <h1 align="center">
